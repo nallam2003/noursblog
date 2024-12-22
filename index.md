@@ -6,4 +6,6 @@ Here is a [link](https://nourtheallam.github.io/noursblog/notes/test.md) to anot
 
 Checkout this picture
 
-![image][https://nourtheallam.github.io/noursblog/images/suzume_cat.jpeg.webp]
+![image](https://github.com/user-attachments/assets/b988bd3c-6deb-4dcf-b4f9-2b4599603710)
+
+Hello
