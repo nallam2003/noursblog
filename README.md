@@ -15,20 +15,24 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 <!--
 <<<<<<< HEAD
+<<<<<<< HEAD
   <<< Author notes: Step 2 >>>
+=======
+  <<< Author notes: Step 5 >>>
+>>>>>>> 08c71c0e80871602a9c424a9fab9a86a3f516955
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-## Step 2: Configure your site
+## Step 5: Merge your pull request
 
-_You turned on GitHub Pages! :tada:_
+_Nice work, friend :heart:! People will be reading your blog in no time!_
 
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
+You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
+### :keyboard: Activity: Merge your changes
 
+<<<<<<< HEAD
 We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
 
 ### :keyboard: Activity: Configure your site
@@ -86,6 +90,10 @@ For more information about configuring front matter, see the [Jekyll frontmatter
 1. Type a quick draft of your blog post. Remember, you can always edit it later.
 1. Commit your changes to your branch.
 >>>>>>> my-pages
+=======
+1. Merge your changes from `my-pages` into `main`. If you created the pull request in step 2, just open that PR and click on **Merge pull request**. If you did not create the pull request earlier, you can do it now by following the instructions in [step 2](/.github/steps/2-configure-your-site.md).
+1. (optional) Delete the branch `my-pages`.
+>>>>>>> 08c71c0e80871602a9c424a9fab9a86a3f516955
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
